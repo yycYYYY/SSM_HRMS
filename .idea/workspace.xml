@@ -86,7 +86,7 @@
       <file leaf-file-name="springmvc.xml" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/resources/springmvc.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="188">
+            <state relative-caret-position="31">
               <caret line="22" column="11" lean-forward="true" selection-start-line="22" selection-start-column="11" selection-end-line="22" selection-end-column="11" />
             </state>
           </provider>
@@ -736,7 +736,7 @@
       <workItem from="1556730431487" duration="384000" />
       <workItem from="1570960832882" duration="830000" />
       <workItem from="1571064086595" duration="632000" />
-      <workItem from="1571483886980" duration="2613000" />
+      <workItem from="1571483886980" duration="3663000" />
     </task>
     <servers />
   </component>
@@ -773,7 +773,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="46502000" />
+    <option name="totallyTimeSpent" value="47552000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="25" width="1366" height="743" extended-state="6" />
@@ -799,7 +799,7 @@
       <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49697885" weight="0.7898305" />
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Spring" order="7" weight="0.32881355" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.3293718" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.75382006" />
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.33761328" />
       <window_info id="Web" order="2" side_tool="true" />
       <window_info anchor="right" id="Theme Preview" order="3" />
@@ -1184,7 +1184,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/resources/springmvc.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="188">
+        <state relative-caret-position="31">
           <caret line="22" column="11" lean-forward="true" selection-start-line="22" selection-start-column="11" selection-end-line="22" selection-end-column="11" />
         </state>
       </provider>
